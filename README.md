@@ -4,7 +4,7 @@
 
 本文提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)** 使用教程，推荐国内镜像网站，支持最新的GPT-4o绘图与GPT-o4-mini模型，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.chat)**，提升工作效率和创作质量。
 
-本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.chat)** 使用指南，整理了多个国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，满足个人与专业需求。
+本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.chat)** 使用指南，整理了多个国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，满足个人与专业需求。 
 
 快速开始 - 推荐的 ChatGPT 中文版服务： 
 
